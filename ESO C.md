@@ -8,8 +8,7 @@
 **Cecilio, Sankta Cecilio** skyddshelgon för musiker
 **ced/i** **I** ge efter, ge upp **II** falla undan, sluta göra motstånd **III** avstå, avträda (någonting); **cedo** avstående, eftergift; **cedaĵo** sak/rätt som överlåtits; **cedema** eftergiven, foglig, medgörlig; **cedigi iun** få någon att ge upp, ge efter; **malcedi** stå emot; **necedebla** som inte kan överlåtas
 **cedil/o** cedilj, litet c(z), hake under bokstaven C
-**cedr/o** xsl cedrus, cedrar
-**Lebanona cedro** Libanonceder
+**cedr/o** xsl cedrus, cedrar; **Lebanona cedro** Libanonceder
 **cedrat/o** x citrusträd, citronträd (litet träd/buske)
 **cedrel/o** xsl cedrela, mahognyväxter, bl a cederträd
 **cefal/o** huvud- som förled Vsk; **cefalgio** huvudvärk (kapdoloro); **cefale/o** ihållande huvudvärk, migrän
@@ -21,7 +20,7 @@
 **Cejlon/o** Ceylon (nu Sri Lanka)
 **cekum/o** blindtarm; **cekumito** blindtarmsinflammation
 **cel/o** **I** mål, syfte, ändamål **II** syfte, inriktning (mål som man anstränger sig att nå); 
-**celado** strävan, syftning (mot ett mål); **celilo** sikte (på skjutvapen), sökare (på kamera); **celilaro** riktmedel på större vapen; **celumi** ställa in riktning (på sikte), att sikta; **cel-tabul/o** måltavla
+**celado** strävan, syftning (mot ett mål); **celilo** sikte (på skjutvapen), sökare (på kamera); **celilaro** riktmedel på större vapen; **celumi** ställa in riktning (på sikte), att sikta; **cel-tabulo** måltavla
 **celastro** xsl träddödare (lianer som bär frukt)
 **Celebes/o** Celebes, (nytt namn) Sulawesi
 **celebr/i** att celebrera, fira ceremoniellt
@@ -58,99 +57,64 @@
 **centi-** /förled/ i betydelsen hundradel, ex: centilitro
 **centifoli/o** x centifolieros, hundrabladsros
 **centilitr/o** centiliter
-**centim/o** centime, (100-del av valuta)
+**centim/o** centime (100-del av valuta)
 **centimetr/o** centimeter
 **centipeli/o** (vardagligt: retostomako) nätmage (hos idisslare)
-**centr/o** centrum, medelpunkt, central plats
-**nervaj centroj nervcentra
-**-a varande i centrum/i mitten
-**-i > centrera, placera i centrum
-**-ado centrering
-**-ejo central (en plats för viss verksamhet)
-**-ulo center (i fotboll, handboll)
+**centr/o** centrum, medelpunkt, central plats; **nervaj centroj** nervcentra; **centra**
+ varande i centrum/i mitten; **centri** centrera, placera i centrum; **centrado** centrering; 
+**centrejo** central (en plats för viss verksamhet); **centrulo** center (i fotboll, handboll)
 **Centralafrika Respublik/o** Centralafrikanska Republiken
 **central/o** en central (för diverse: telefon-, post, el-, distributions-)
-**centraliz-i > centralisera
-**mal-i > sprida ut
+**centraliz/i** centralisera; **malcentralizi** sprida ut
 **centrant/o** xsl centranthus, pipörter
-**centrifug-a centrifugal, som strävar ut från ett centrum
-**-i > centrifugera
-**-ado centrifugering
-**-ilo en centrifug
-**centripet-a centripetal (som drar föremål i krökt bana mot medelpunkten)
+**centrifug/a** centrifugal, som strävar ut från ett centrum; **centrifugi** centrifugera;
+**centrifugado** centrifugering; **centrifugilo** centrifug
+**centripet/a** centripetal (som drar föremål i krökt bana mot medelpunkten)
 **centrobateri/o** centralbatteri (för strömmatning ut på ett linjemät)
 **centuri/o** centuria (avdelning om 100 man i romersk legion)
 **cenzor/o** censor, förhandsgranskare
-**cenzur-i > censurera (film, brev mm)
-**/o** censur, förhandsgranskning
+**cenzur/i ** censurera (film, brev mm); **cenzuro** censur, förhandsgranskning
 **cep/o** x lök (gul, röd)
 **cepol/o** zsl cepola, fam. Bandfiskar, ex: nejonöga
-**cerambik/o** zsl cerambyx, ekoxar
-**-edoj skalbaggsfamilj långhorningar
-**ceramik/o** keramikkonst, keramiktillverkning
-**-a keramisk
-**-a?o keramikföremål
-**-isto keramiker
+**cerambik/o** zsl cerambyx, ekoxar; **cerambikedoj** skalbaggsfamilj långhorningar
+**ceramik/o** keramikkonst, keramiktillverkning; **ceramika** keramisk; 
+**ceramikaĵo** keramikföremål; **ceramikisto** keramiker
 **cerami/o** xsl ceramium, rödalger
 **cerast/o** zsl cerastes, släkte ormar med hornhuggorm som en av de två arterna
 **cerasti/o** xsl cerastium, släkte i familjen nejlikväxter, som har tilläggsändelsen -arv, ex: fältarv, hönsarv, fjällarv
-**ceratin/o** = keratino keratin
+**ceratin/o** _**= keratino**_ keratin
 **ceratofil/o** xsl ceratophyllum, särv
 **cerami/o** xsl ceramium, rödalger
 **ceratoni/o** xsl ceratonia, ärtväxter bl a johannesbröd
-**cerb/o** hjärna
-**-a hjärn-
-**-a hemoragio hemorragi, hjärnblödning
-**-eto lillhjärnan
-**-umi fundera, anstränga hjärnan
+**cerb/o** hjärna; **cerba**  hjärn-; **cerba hemoragio** hemorragi, hjärnblödning; **cerbeto** lillhjärnan; **cerbumi** fundera, anstränga hjärnan
 **cerbatan/o** blåsrör, ärtrör (som instrument/vapen)
-**Cerber/o** Cerberus = Kerberos (trehövdad hund vid dödsrikets port) 2. otrevlig, sträng dörrvakt
-**cerb-skuo hjärnskakning
-**cercid/o** xsl cercis, judasträd (en del odlas för möbler)
-**cercidifil/o** xsl katsuror (med starka höstfärger. Kina Japan)
-**cereal/o** x brödsäd, spannmål
-**-a?o frukostflingor, müsli
+**Cerber/o** **I** Cerberus _**= Kerberos**_ (trehövdad hund vid dödsrikets port) **II** otrevlig, sträng dörrvakt
+**cerb-skuo** hjärnskakning
+**cercid/o** xsl cercis, judasträd (en del odlas för möbler); **cercidifilo** xsl katsuror (med starka höstfärger. Kina Japan)
+**cereal/o** x brödsäd, spannmål; **cerealaĵo** frukostflingor, müsli
 **cerebel/o** cerebellum, lilla hjärnan
 **cerebr/o** cerebrum, stora hjärnan
 **cerefoli/o** x körvel (bladen används som krydda)
-**ceremoni/o** ceremoni
-**-a vesto ceremoniell dräkt/klädsel
-**sen-ceremonia informell, enkel
+**ceremoni/o** ceremoni; **ceremonia vesto** ceremoniell dräkt/klädsel; **sen-ceremonia**  informell, enkel
 **cerezin/o** ett mineralvax
 **ceri/o** cerium (metalliskt grundämne, Ce, nr 58)
 **cerkopitek/o** zsl släkte färggranna, långsvansade apor, markatter ingår
 **cerotin/o** bivaxsyra
-**cert-a säker, viss; förvissad 2. säker, tillförlitlig, pålitlig 2. viss (mängd), visst (antal)
-**-j informoj vissa informationer (viss mängd)
-**tute certaj informoj helt säkra informationer (med säkerhet)
-**-e säkert, utan tvekan
-**-eco säkerhet; visshet
-**-igi > försäkra (lova med säkerhet)
-**mi certigas vin, ke … jag försäkrar dig, att...
-**-i?i bli säker, försäkra sig (om)
-**mal-certa oviss, osäker, totalt utan visshet/säkerhet
-**memcerta självsäker
-**ne-certa osäker, med tvekan, inte säker
-**certi/o** (arbo-grimpulo) zo certhia, släkte trädkrypare
-**cerumen/o** (orelvakso) öronvax
+**cert/a** **I** säker, viss, förvissad **II** säker, tillförlitlig, pålitlig **III** viss (mängd), visst (antal); **certaj informoj** vissa informationer (viss mängd); 
+**tute certaj informoj** helt säkra informationer (med säkerhet); **certe** säkert, utan tvekan; **certeco** säkerhet, visshet; **certigi** försäkra (lova med säkerhet) _**mi certigas vin, ke … **_ jag försäkrar dig, att...; **certiĝi** bli säker, försäkra sig (om); **mal-certa** oviss, osäker, totalt utan visshet/säkerhet; **memcerta** självsäker; **ne-certa** osäker, med tvekan, inte säker
+**certi/o** _**(arbo-grimpulo)**_ zo certhia, släkte trädkrypare
+**cerumen/o** _**(orelvakso)**_ öronvax
 **ceruz/o** blyvitt (blyförening)
 **ceruzit/o** cerussit (mineral som innehåller bly)
-**cerv/o** z hjort (dovhjort = damao) Anm. Norda cervo har tidigare stått för renar, vilket är zoologiskt fel. Ren = rangifero.
-**-edoj hovdjursfamiljen hjortdjur
-**dam-cervo = damao
+**cerv/o** z hjort; **cervedoj** hovdjursfamiljen hjortdjur; **dam-cervo** _**= damao**_ dovhjort
 **cervelas/o** cervelatkorv (italiensk)
-**cervik/o** ”hals” (för avsmalnande del av organ)
-**dento-cerviko tandhals
+**cervik/o** ”hals” (för avsmalnande del av organ); **dento-cerviko** tandhals
 **cesalpini/o** xsl släkte tropiska ärtväxter
 **cest/o** (antik) boxhandske av läderremmar
 **cestod/o**j z klassen bandmaskar
 **cestr/o** xsl cestrum, juvelbuskar
-**cetac/o**j x däggdjursordningen valar
-**barto-cetacoj bardvalar
-**dento-cetacoj tandvalar
-**ceter-a övrig(t)
-**-e för övrigt
-**/o** återstod, rest, det som blev över
+**cetac/o**j x däggdjursordningen valar; **barto-cetacoj** bardvalar; **dento-cetacoj** tandvalar
+**ceter/a** övrig(t); **cetere** för övrigt; **cetero** återstod, rest, det som blev över
 **ceterak/o** x ceterach, släkte ormbunkar, bl a mjältbräken
 **cetil/o** cetyl
 **-a alkoholo cetylalkohol
