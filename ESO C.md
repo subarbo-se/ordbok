@@ -116,86 +116,56 @@
 **cetac/o**j x däggdjursordningen valar; **barto-cetacoj** bardvalar; **dento-cetacoj** tandvalar
 **ceter/a** övrig(t); **cetere** för övrigt; **cetero** återstod, rest, det som blev över
 **ceterak/o** x ceterach, släkte ormbunkar, bl a mjältbräken
-**cetil/o** cetyl
-**-a alkoholo cetylalkohol
+**cetil/o** cetyl; **cetila alkoholo** cetylalkohol
 **cetoni/o** zsl skalbaggar/guldbaggar
 **cetrari/o** xsl sköldlavar, bl a islandslav
 **cezalpini/o** xsl caesalpinia, ärtväxter (av veden fås bresiljeträ)
-**cezar-a operacio kejsarsnitt (förlossningsoperation)
+**cezar/a operacio** kejsarsnitt (förlossningsoperation)
 **cezi/o** cesium (metalliskt grundämne, Cs, nr 55)
 **cezur/o** cesur, taktvila, paus i versrad
-**C G S centimeter-gram-sekund-systemet (ersatt av SI)
-**ci du (personligt pronomen för du-tilltal, men används sällan i vanligt tilltal)
-**cidiri al iu att dua, säga du till någon
-**cian/o** cyan
-**-a acido HOCN (cyansyra)
-**/o**zo cyanos, blåaktig missfärgning av hud, slemhinnor (orsakas av syrebrist i blodet)
-**ciane/o** zsl brännmaneter, syn: brulmeduzo
+**C G S** centimeter-gram-sekund-systemet (ersatt av SI)
+**ci** du (personligt pronomen för du-tilltal, men används sällan i vanligt tilltal); **cidiri al iu** att dua, säga du till någon
+**cian/o** cyan; **ciana acido** HOCN (cyansyra); **cianozo** cyanos, blåaktig missfärgning av hud, slemhinnor (orsakas av syrebrist i blodet)
+**ciane/o** zsl brännmaneter, syn: **brulmeduzo**
 **cianokobalamin/o** cyanokobalamin, vitamin B12
 **cibernetik/o** (k-) cybernetik, matematiska modeller för styrda system
 **cibet/o** sibetolja (från sibetkattens doftkörtlar)
-**cic/o** bröstvårta
-**-umo en napp för nappflaska
-**cicer/o** cicero, 1 cicero = 12 punkter (mått i typografi)
+**cic/o** bröstvårta; **cicumo** en napp för nappflaska
+**cicer/o** cicero, mått i typografi: 1 cicero = 12 punkter
 **cincindel/o** zsl cicindela, släkte i skalbaggsgruppen sandjägare
-**cidar/o** huvudbonad (mitra för judisk överstepräst) 2. turban för persiska kungar
+**cidar/o** **I** huvudbonad (mitra för judisk överstepräst) **II** turban för persiska kungar
 **cidoni/o** xsl cydonia, kvitten (frukt som liknar äpple)
 **cidr/o** cider (dryck av jäst äppelmust, alkoholhaltig)
-**cifer/o** siffra
-**kvin-cefera nombro ett femsiffrigt tal
-**-i > uppskatta och ange i siffror; uttrycka i siffror
-**rond-cifere i runda tal
-**cifera horlo?o digitalur (utan visare, endast siffror)
-**cifer-plato urtavla (på klocka)
+**cifer/o** siffra; **kvin-cefera nombro** ett femsiffrigt tal; **ciferi** uppskatta och ange i siffror, uttrycka i siffror; **rond-cifere** i runda tal; **cifera horloĝo** digitalur (utan visare, endast siffror); **cifer-plato** urtavla (på klocka)
 **cifoz/o** utbuktning, puckel (på ryggraden)
-**cigan/o** = roma/o** zigenare, romer
-**-a lingvo (språket) romani
-**cigar/o** cigarr
-**-eto cigarill (liten cigarr)
-**cigared/o** cigarett
-**/o** sen filtrilo cigarett utan filter
-**cign/o** zo sl cygnus, andsläktet svanar (med 6 arter)
-**kanto-cigno sångsvan
-**kanto de cigno svanesång (slutet på speciell verksamhet)
-**Cigno stjärnbilden Svanen
-**cikad/o** z cikada (insektsordningen växtsugare) sångstritar
-**cikadoj ?irpas cikador ”sjunger”
+**cigan/o** = **roma/o** zigenare, romer; **romaa lingvo** (språket) romani
+**cigar/o** cigarr; **cigareto** cigarill (liten cigarr); **cigaredo** cigarett; _**cigaredo sen filtrilo**_ cigarett utan filter
+**cign/o** zo sl cygnus, andsläktet svanar (med 6 arter); **kanto-cigno** sångsvan; 
+**kanto de cigno** svanesång (slutet på speciell verksamhet); **Cigno** stjärnbilden Svanen
+**cikad/o** z cikada (insektsordningen växtsugare) sångstritar; _**cikadoj ĉirpas**_ cikador ”sjunger”
 **cikas/o**j xsl cycas, kottepalmer, med bl a sagopalm
 **cikatr/o** ett ärr, ärrbildning
 **cikl/o** kretslopp, cykel, krets, ring
-**cikl/o** = biciklo (trampcykel).
-**triciklo (trirada ciklo) trehjuling
-**cikl-a cyklisk, som utgör/bildar en ring, serie, svit
-**re-cikl-igi låta recirkulera (för återanvändning)
-**ciklo/ förled i sammansatta ord, cyklisk- krets- ring- cirkel-
+**cikl/o** = **biciklo** (trampcykel); **triciklo (trirada ciklo)** trehjuling; **cikla** cyklisk, som utgör/bildar en ring, serie, svit; **recikligi** låta recirkulera (för återanvändning)
+**ciklo-** förled i sammansatta ord, cyklisk- krets- ring- cirkel-
 **ciklamen/o** xsl cyklamen, viveväxter, bl a dvärgcyklamen, alpcyklamen, vårcyklamen
-**ciklogir/o** = helikoptero
-**ciklometr/o** mätare av vägsträcka via ett hjul
-**ciklometri-a cyklometrisk
+**ciklogir/o** = **helikoptero** helikopter
+**ciklometr/o** mätare av vägsträcka via ett hjul; **ciklometri/a** cyklometrisk
 **ciklon/o** cyklon, virvelstorm, lågtrycksområde
 **ciklop/o** cyklop, jätte med ögat mitt i pannan
 **ciklosporin/o** ciklosporin, läkemedel (som motverkar avstötning efter transplantation)
 **ciklotimi/o** (typ av psykos), manisk-depresiv sjukdom
-**ciklotron/o** cyklotron; partikelaccelerator
+**ciklotron/o** cyklotron, partikelaccelerator
 **cikoni/o** zo sl ciconia, storkfåglar, bl a svart stork, vit stork
 **cikori/o** xsl cichorium, cikoria
-**cikut/o** xsl cicuta, släkte flockblomstriga växter (alla mycket giftiga, bl a sprängört) 2. giftet (i dessa växter)
-**cili/o** filmmerhår
-**-uloj ciliater (en stam protozoer)
+**cikut/o** **I** xsl cicuta, släkte flockblomstriga växter (alla mycket giftiga, bl a sprängört) **II** giftet (i dessa växter)
+**cili/o** filmmerhår; **ciliuloj** ciliater (en stam protozoer)
 **ciliar/o** ciliarkropp (med muskel som reglerar ögats avståndsseende)
-**cilindr/o** cylinder, vals, rulle
-**kvar-cilindra motoro fyrcylindrig motor
-**cilindro de skribma?ino vals, skrivmaskinsvals
-**-a cylindrisk
-**rul-cilindro rulle, trumma (att linda upp kabel/garn/tråd/band på)
-**cim/o**j löss 2. buggar (i dataprogram)
-**lito-cimo vägglus
-**akvokuraj cimoj skräddare (vattenskinnbaggar)
-**dorsna?a cimo ryggsimmare (vattenskinnbagge)
-**Se andra löss: afido, pediko = homla?so
+**cilindr/o** **I** cylinder **II** vals **III** rulle; **kvar-cilindra motoro** fyrcylindrig motor; **cilindro de skribmaŝino** skrivmaskinsvals; **cilindra** cylindrisk; 
+**rul-cilindro** rulle, trumma (att linda upp kabel/garn/tråd/band på)
+**cim/o** **I** lus **II** bugg (fel i dataprogram); **lito-cimo** vägglus; **akvokuraj cimoj** skräddare (vattenskinnbaggar); **dorsnaĝa cimo** ryggsimmare (vattenskinnbagge); Se andra löss: **afido**, **pediko** = **homla?so**
 **cimati/o** vägglist (mot takkanten, att hänga tavlor på)
-**cimbal/o** cymbal, bäcken
-**-isto bäckenslagare (med två som slås emot varandra)
+**cimbal/o** **I** cymbal **II** bäcken; **cimbalisto** bäckenslagare, cymbalspelare (med två som slås emot varandra)
 **cimbalari/o** xsl cymbalaria, murrevor
 **cimbidi/o** xsl cymbidium, släkte orkidéer
 **cimbopogon/o** xsl cymbopogon, ett grässläkte, bl a citrongräs
