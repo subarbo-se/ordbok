@@ -11,7 +11,7 @@
 **cedr/o** xsl cedrus, cedrar; **Lebanona cedro** Libanonceder
 **cedrat/o** x citrusträd, citronträd (litet träd/buske)
 **cedrel/o** xsl cedrela, mahognyväxter, bl a cederträd
-**cefal/o** huvud- som förled Vsk; **cefalgio** huvudvärk (kapdoloro); **cefale/o** ihållande huvudvärk, migrän
+**cefal/o** huvud- som förled Vsk; **cefalgio** _**= kapdoloro**_ huvudvärk; **cefaleo** ihållande huvudvärk, migrän
 **cefalopod/o**j z klassen cephalopoda (kapopieduloj) bläckfiskar (8- och 10-armade)
 **cefalotorak/o** z cephalothorax, huvud och mellankropp (hos kräftdjur)
 **cefe/o** cepheus (stjärnbild)
@@ -29,13 +29,12 @@
 **celestin/o** celestin (strontiummineral)
 **celfend/o** siktskåra (på vapensikte mm)
 **celgrajn/o** korn (på vapens riktmedel)
-**celiaki/o** celiaki, sjukdom i tarmslemhinna
+**celiaki/o** celiaki, glutenintolerans, sjukdom i tarmslemhinna
 **celibat/o** celibat, leva ogift i avhållsamhet
 **celobipz/o** cellobios, disackarid (sockerart)
 **celofan/o** cellofan (plastfolie)
 **celom/o** celom, brösthåla, bukhåla (kroppshålighet)
-**Celsi/o** Celsius (svensk fysiker)
-**celsi/aj** gradoj grader Celsius
+**Celsi/o** Celsius (svensk fysiker); **celsiaj gradoj** grader Celsius
 **celt/oj** _**= keltoj**_ kelter (folkgrupp)
 **celtid/o** xsl celtis, almväxter
 **celul/o** cellula, litet slemhinneklätt hålrum
@@ -54,10 +53,10 @@
 **centaŭre/o** xsl centaurea, klintar, bl a blåklint
 **centaŭri/o** xsl centaurium, arun, bl a fläckig munkhätta
 **centezimal/a** centesimal, system i hundradelar
-**centi-** /förled/ i betydelsen hundradel, ex: centilitro
+**centi-** förled i betydelsen hundradel, ex: centilitro
 **centifoli/o** x centifolieros, hundrabladsros
 **centilitr/o** centiliter
-**centim/o** centime (100-del av valuta)
+**centim/o** centime (hundradel av valuta)
 **centimetr/o** centimeter
 **centipeli/o** (vardagligt: retostomako) nätmage (hos idisslare)
 **centr/o** centrum, medelpunkt, central plats; **nervaj centroj** nervcentra; **centra**
@@ -88,14 +87,14 @@
 **ceratoni/o** xsl ceratonia, ärtväxter bl a johannesbröd
 **cerb/o** hjärna; **cerba**  hjärn-; **cerba hemoragio** hemorragi, hjärnblödning; **cerbeto** lillhjärnan; **cerbumi** fundera, anstränga hjärnan
 **cerbatan/o** blåsrör, ärtrör (som instrument/vapen)
-**Cerber/o** **I** Cerberus _**= Kerberos**_ (trehövdad hund vid dödsrikets port) **II** otrevlig, sträng dörrvakt
+**Cerber/o** **I** Cerberus, Kerberos (trehövdad hund vid dödsrikets port) **II** otrevlig, sträng dörrvakt
 **cerb-skuo** hjärnskakning
 **cercid/o** xsl cercis, judasträd (en del odlas för möbler); **cercidifilo** xsl katsuror (med starka höstfärger. Kina Japan)
 **cereal/o** x brödsäd, spannmål; **cerealaĵo** frukostflingor, müsli
 **cerebel/o** cerebellum, lilla hjärnan
 **cerebr/o** cerebrum, stora hjärnan
 **cerefoli/o** x körvel (bladen används som krydda)
-**ceremoni/o** ceremoni; **ceremonia vesto** ceremoniell dräkt/klädsel; **sen-ceremonia**  informell, enkel
+**ceremoni/o** ceremoni; **ceremonia vesto** ceremoniell dräkt eller klädsel; **sen-ceremonia**  informell, enkel
 **cerezin/o** ett mineralvax
 **ceri/o** cerium (metalliskt grundämne, Ce, nr 58)
 **cerkopitek/o** zsl släkte färggranna, långsvansade apor, markatter ingår
@@ -103,7 +102,7 @@
 **cert/a** **I** säker, viss, förvissad **II** säker, tillförlitlig, pålitlig **III** viss (mängd), visst (antal); **certaj informoj** vissa informationer (viss mängd); 
 **tute certaj informoj** helt säkra informationer (med säkerhet); **certe** säkert, utan tvekan; **certeco** säkerhet, visshet; **certigi** försäkra (lova med säkerhet) _**mi certigas vin, ke … **_ jag försäkrar dig, att...; **certiĝi** bli säker, försäkra sig (om); **mal-certa** oviss, osäker, totalt utan visshet/säkerhet; **memcerta** självsäker; **ne-certa** osäker, med tvekan, inte säker
 **certi/o** _**(arbo-grimpulo)**_ zo certhia, släkte trädkrypare
-**cerumen/o** _**(orelvakso)**_ öronvax
+**cerumen/o** _**= orelvakso**_ öronvax
 **ceruz/o** blyvitt (blyförening)
 **ceruzit/o** cerussit (mineral som innehåller bly)
 **cerv/o** z hjort; **cervedoj** hovdjursfamiljen hjortdjur; **dam-cervo** _**= damao**_ dovhjort
@@ -128,7 +127,7 @@
 **cian/o** cyan; **ciana acido** HOCN (cyansyra); **cianozo** cyanos, blåaktig missfärgning av hud, slemhinnor (orsakas av syrebrist i blodet)
 **ciane/o** zsl brännmaneter, syn: **brulmeduzo**
 **cianokobalamin/o** cyanokobalamin, vitamin B12
-**cibernetik/o** (k-) cybernetik, matematiska modeller för styrda system
+**cibernetik/o** _**= kibernetiko**_ cybernetik, matematiska modeller för styrda system
 **cibet/o** sibetolja (från sibetkattens doftkörtlar)
 **cic/o** bröstvårta; **cicumo** en napp för nappflaska
 **cicer/o** cicero, mått i typografi: 1 cicero = 12 punkter
@@ -138,7 +137,7 @@
 **cidr/o** cider (dryck av jäst äppelmust, alkoholhaltig)
 **cifer/o** siffra; **kvin-cefera nombro** ett femsiffrigt tal; **ciferi** uppskatta och ange i siffror, uttrycka i siffror; **rond-cifere** i runda tal; **cifera horloĝo** digitalur (utan visare, endast siffror); **cifer-plato** urtavla (på klocka)
 **cifoz/o** utbuktning, puckel (på ryggraden)
-**cigan/o** = **roma/o** zigenare, romer; **romaa lingvo** (språket) romani
+**cigan/o** _**= roma/o**_ zigenare, romer; **romaa lingvo** (språket) romani
 **cigar/o** cigarr; **cigareto** cigarill (liten cigarr); **cigaredo** cigarett; _**cigaredo sen filtrilo**_ cigarett utan filter
 **cign/o** zo sl cygnus, andsläktet svanar (med 6 arter); **kanto-cigno** sångsvan; 
 **kanto de cigno** svanesång (slutet på speciell verksamhet); **Cigno** stjärnbilden Svanen
@@ -146,10 +145,10 @@
 **cikas/o**j xsl cycas, kottepalmer, med bl a sagopalm
 **cikatr/o** ett ärr, ärrbildning
 **cikl/o** kretslopp, cykel, krets, ring
-**cikl/o** = **biciklo** (trampcykel); **triciklo (trirada ciklo)** trehjuling; **cikla** cyklisk, som utgör/bildar en ring, serie, svit; **recikligi** låta recirkulera (för återanvändning)
+**cikl/o** _**= biciklo**_ (trampcykel); **triciklo**, **trirada ciklo** trehjuling; **cikla** cyklisk, som utgör/bildar en ring, serie, svit; **recikligi** låta recirkulera (för återanvändning)
 **ciklo-** förled i sammansatta ord, cyklisk- krets- ring- cirkel-
 **ciklamen/o** xsl cyklamen, viveväxter, bl a dvärgcyklamen, alpcyklamen, vårcyklamen
-**ciklogir/o** = **helikoptero** helikopter
+**ciklogir/o** _**= helikoptero**_ helikopter
 **ciklometr/o** mätare av vägsträcka via ett hjul; **ciklometri/a** cyklometrisk
 **ciklon/o** cyklon, virvelstorm, lågtrycksområde
 **ciklop/o** cyklop, jätte med ögat mitt i pannan
@@ -163,7 +162,7 @@
 **ciliar/o** ciliarkropp (med muskel som reglerar ögats avståndsseende)
 **cilindr/o** **I** cylinder **II** vals **III** rulle; **kvar-cilindra motoro** fyrcylindrig motor; **cilindro de skribmaŝino** skrivmaskinsvals; **cilindra** cylindrisk; 
 **rul-cilindro** rulle, trumma (att linda upp kabel/garn/tråd/band på)
-**cim/o** **I** lus **II** bugg (fel i dataprogram); **lito-cimo** vägglus; **akvokuraj cimoj** skräddare (vattenskinnbaggar); **dorsnaĝa cimo** ryggsimmare (vattenskinnbagge); Se andra löss: **afido**, **pediko** = **homla?so**
+**cim/o** **I** lus **II** bugg (fel i dataprogram); **lito-cimo** vägglus; **akvokuraj cimoj** skräddare (vattenskinnbaggar); **dorsnaĝa cimo** ryggsimmare (vattenskinnbagge); andra löss: _**afido**_, _**pediko**_ _**= homlaŭso**_
 **cimati/o** vägglist (mot takkanten, att hänga tavlor på)
 **cimbal/o** **I** cymbal **II** bäcken; **cimbalisto** bäckenslagare, cymbalspelare (med två som slås emot varandra)
 **cimbalari/o** xsl cymbalaria, murrevor
@@ -206,7 +205,7 @@
 **citokrom/o** cytokromer (rödbrunfärgade proteiner)
 **citolog/o** cytolog; **citologio** cytologi, läran om cellen, cellära
 **citoplasm/o** cytoplasma (cellinnehållet mellan cellmembran och kärnmembran)
-**citotrop/a** syn: ?elafina (benägenhet att förena sig med celler)
+**citotrop/a** _**= ĉelafina**_ (benägenhet att förena sig med celler)
 **citr/o** cittra (stränginstrument)
 **citral/o** citral, terpenaldehyd (smak- och doftämne i livsmedel och parfymer. Ger citrondoft.)
 **citrat/o** citrat, salt/ester av citronsyra
@@ -214,8 +213,7 @@
 **citron/o** x citron; **verda citrono** lime; **citronflava** citrongul; **citronpremilo** citronpress
 **citronel/o** x citronella, managräs; **citronel-alo** citronellal (huvudbeståndsdel i citronellolja)
 **citrus/o** xsl citrus, släkte vinruteväxter, citrusträd (som ger diverse citrusfrukter, vanligast apelsiner, klementiner, grapefrukt, citroner)
-**civet/o** z sibet-katt
-**civetikt/o** = afrika civeto
+**civet/o** z sibetkatt; **civetikto** _**= afrika civeto**_ civett, afrikansk sibetkatt
 **civil/a** civil, icke militär, allmänt medborgerlig; **civilaj vestoj** civila kläder;
 **civila edziĝo** borgerligt gifte; **civila inĝeniero** civilingenjör; **civila juro** civilrätt;
 **civila kuraĝo** civilkurage; **civila malobeado** civil olydnad; **civilaj rajtoj** medborgerliga  rättigheter; **civilulo** civilist, enkel medborgare; **civilizi** civilisera, bibringa civilisation;
@@ -227,4 +225,4 @@
 **cucugamuŝi/o** tsutsugamushfeber, japansk flodfeber, kvalsterburen tyfus
 **cug/o** xsl tsuga, hemlock (barrträd)
 **cum/o** x skruvknippe (typ av blomställning)
-**cunam/o** tsunami (hög långvågig havsvåg. Uppstår vid jordbävning, vulkanutbrott)
+**cunam/o** tsunami, hög långvågig havsvåg som uppstår vid jordbävning eller vulkanutbrott
