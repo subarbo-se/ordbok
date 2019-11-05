@@ -174,93 +174,57 @@
 **cinam/o** kanel (som pulver mald eller liten rulle kanelstång)
 **cinamom/o** xsl cinnamomum, lagerväxter (träd och buskar med aromatiskt doftande bark, ex: kanel, kamfer)
 **cinar/o** xsl cynara, bl a kronärtskocka
-**cindr/o** aska
-**-ujo askkopp, askfat; asklåda i spis/ugn
-**Cindrul-ino Askungen (saga)
-**Cintromerkredo Askonsdag (i påskveckan)
+**cindr/o** aska; **cindrujo** **I** askkopp, askfat **II** asklåda i spis eller ugn; **Cindrulino** Askungen (saga); **Cindromerkredo** Askonsdag (i påskveckan)
 **cinerari/o** x cineraria (hybrid i familjen korgblommiga växter, vanlig som krukväxt)
-**cinik-a cynisk, skamlös, rå, föraktfull
-**-a?o cynism, förakt
-**-ulo cyniker
-**-a skolo rikning inom grekisk filosofi, kyniska skolan
-**cinip/o** zsl gallsteklar
+**cinik/a** cynisk, skamlös, rå, föraktfull; **cinikaĵo** cynism, förakt; **cinikulo** cyniker; 
+**cinika skolo** kyniska skolan, riknig inom grekisk filosofi 
+**cinip/o** zsl gallstekel
 **cinkl/o** zo strömstare
 **cinocefal/o** = paviano
 **cinodon/o** xsl cynodon, släkte gräs, bl a bermudagräs
-**cinoglos/o** xsl cynoglossum, strävbladiga växter, bl a kinesisk förgätmigej
-**oficina /o** hundtunga
-**cinozur/o** xsl cynosuros, syn: hundovosto, ett gräs, ex: kamäxing
-**cintr/o** bygg-gjutform (av brädor, skivor, för betonggjutning
-**-i > att bygga sätta betonggjutformar (på byggplats)
-**Cion/o** Sion (benämning för Jerusalem; ett berg i Jerusalem)
-**-ismo sionism, judisk rörelse för att främja invandring till Palestina
-**cip/o** stenmonument 1. som gravsten 2. gränsmarkering 3. gammaldags vägvisare
+**cinoglos/o** xsl cynoglossum, strävbladiga växter, bl a kinesisk förgätmigej; **oficina/o** hundtunga
+**cinozur/o** xsl cynosuros, syn: **hundovosto** ett gräs, ex: kamäxing
+**cintr/o** bygg-gjutform (av brädor, skivor, för betonggjutning); **cintri** att bygga sätta betonggjutformar (på byggplats)
+**Cion/o** Sion **I** benämning för Jerusalem **II** ett berg i Jerusalem; **cionismo** sionism, judisk rörelse för att främja invandring till Palestina
+**cip/o** stenmonument **I** som gravsten **II** gränsmarkering **III** gammaldags vägvisare
 **ciper/o** xsl cyperus, halvgräs, bl a papperssäv (papyrus), Mose vass, spädsäv, cocogräs
 **Cipr/o** = Kipro
 **cipre/o** z familj porslinssnäckor
-**mon-cipreo en kaurisnäcksart (användes i Ostasien och främst i Afrika, långt tillbaka i tiden, såsom betalningsmedel/pengar)
+**mon-cipreo** en kaurisnäcksart (användes i Ostasien och främst i Afrika, långt tillbaka i tiden, såsom betalningsmedel)
 **cipres/o** (kupreso) x cypress
-**ciprin/o** zsl cyprinus, karpfiskar
-**-edoj familjen karpfiskar, bl a löja, braxen
-**cistern/o** cistern, större (vätske-)behållare (för förvaring och för transporter)
-**cisterno-kamiono tankbil
-**-?ipo tankfartyg
-**cisticerk/o** cysticerkus, dynt (larv av bandmask)
-**/o**zo sjukdom, cysticerkos (på grund av bandmask)
+**ciprin/o** zsl cyprinus, karpfiskar; **ciprinedoj** familjen karpfiskar, bl a löja, braxen
+**cistern/o** cistern, större (vätske-)behållare (för förvaring och för transporter); **cisterno-kamiono** tankbil; **cisternŝipo** tankfartyg
+**cisticerk/o** cysticerkus, dynt (larv av bandmask); **cisticerkozo** sjukdom, cysticerkos (på grund av bandmask)
 **cistin/o** en aminosyra, cystin
 **cistocel/o** cystocele, bråck på urinblåsan
 **cistron/o** cistron, gen, arvsanlag
-**cit-i > att citera (ordagrant återge) 2. omnämna, återge
-**-ado citerande, citering
-**-a?o ett citat
-**-ilo citationstecken ”
-**mis-citi att felcitera
+**cit/i** **I** att citera (ordagrant återge) **II** omnämna, återge; **citado** citerande, citering; **citaĵo** ett citat; **citilo** citationstecken; **mis-citi** att felcitera
 **citadel/o** citadell (kärnfäste för försvaret av en befästningsanläggning eller befäst ort)
-**citat/o** = cita?o
+**citat/o** = _**citaĵo**_
 **citiz/o** xsl cytisus, ärtväxter (omfattar ginster)
 **citokinin/o** cytokinin (ett växthormon)
-**citokrom/o**j cytokromer (rödbrunfärgade proteiner)
-**citolog/o** cytolog
-**-io cytologi, läran om cellen, cellära
+**citokrom/o** cytokromer (rödbrunfärgade proteiner)
+**citolog/o** cytolog; **citologio** cytologi, läran om cellen, cellära
 **citoplasm/o** cytoplasma (cellinnehållet mellan cellmembran och kärnmembran)
-**citotrop-a syn: ?elafina (benägenhet att förena sig med celler)
+**citotrop/a** syn: ?elafina (benägenhet att förena sig med celler)
 **citr/o** cittra (stränginstrument)
 **citral/o** citral, terpenaldehyd (smak- och doftämne i livsmedel och parfymer. Ger citrondoft.)
 **citrat/o** citrat, salt/ester av citronsyra
 **citrol/o** xsl citrullus, gurkväxter bl a vattenmelon
-**citron/o** x citron
-**verda /o** lime
-**-flava citrongul
-**-premilo citronpress
-**citronel/o** x citronella, managräs
-**citronel-alo citronellal (huvudbeståndsdel i citronellolja)
+**citron/o** x citron; **verda citrono** lime; **citronflava** citrongul; **citronpremilo** citronpress
+**citronel/o** x citronella, managräs; **citronel-alo** citronellal (huvudbeståndsdel i citronellolja)
 **citrus/o** xsl citrus, släkte vinruteväxter, citrusträd (som ger diverse citrusfrukter, vanligast apelsiner, klementiner, grapefrukt, citroner)
 **civet/o** z sibet-katt
 **civetikt/o** = afrika civeto
-**civil-a civil, icke militär, allmänt medborgerlig
-**-aj vestoj civila kläder
-**-a edz-i?o borgerligt gifte
-**-a in?eniero civilingenjör
-**-a juro civilrätt
-**-a kura?o civilkurage
-**-a malobeado civil olydnad
-**-aj rajtoj medborgerliga rättigheter
-**-ulo civilist, enkel medborgare
-**civiliz-i > civilisera, bibringa civilisation
-**-ado civilisation(-sprocess)
-**-itaj homoj civiliserade människor
-**civilizaci/o** civilisation, samhällsväsen, kollektivt ordnat samhälle, baserat på lagar/seder
-**civit/o** samhälle, stat
-**-ano samhällsmedborgare
-**-an-eco medborgarskap
-**monda civitaneco världsmedborgarskap
-**cizel-i > ciselera, utmejsla (metallyta)
-**-ilo ciseleringsverktyg
-**isto ciselör
-**col/o** tum (gammalt mått med varierande längd)
-**angla colo inch, engelsk tum (2,54 cm)
-**cucugamu?i/o** tsutsugamushfeber, japansk flodfeber, kvalsterburen tyfus
+**civil/a** civil, icke militär, allmänt medborgerlig; **civilaj vestoj** civila kläder;
+**civila edziĝo** borgerligt gifte; **civila inĝeniero** civilingenjör; **civila juro** civilrätt;
+**civila kuraĝo** civilkurage; **civila malobeado** civil olydnad; **civilaj rajtoj** medborgerliga  rättigheter; **civilulo** civilist, enkel medborgare; **civilizi** civilisera, bibringa civilisation;
+**civilado** civilisation(-sprocess); **civilitaj homoj** civiliserade människor; 
+**civilizacio** civilisation, samhällsväsen, kollektivt ordnat samhälle, baserat på lagar och seder
+**civit/o** samhälle, stat; **civitano** samhällsmedborgare; **civitaneco** medborgarskap; **monda civitaneco** världsmedborgarskap
+**cizel/i ** ciselera, utmejsla (metallyta); **cizelilo** ciseleringsverktyg; **cizelisto** ciselör
+**col/o** tum (gammalt mått med varierande längd); **angla colo** inch, engelsk tum (2,54 cm)
+**cucugamuŝi/o** tsutsugamushfeber, japansk flodfeber, kvalsterburen tyfus
 **cug/o** xsl tsuga, hemlock (barrträd)
 **cum/o** x skruvknippe (typ av blomställning)
 **cunam/o** tsunami (hög långvågig havsvåg. Uppstår vid jordbävning, vulkanutbrott)
-**
